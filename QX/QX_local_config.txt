@@ -21,7 +21,7 @@ https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-quantu
 
 
 [rewrite_remote]
-https://raw.githubusercontent.com/langkhach270389/Scripting/master/QuantumultX/Fake_Vip.txt, tag=Fake_vip_LangKhach, enabled=true
+https://raw.githubusercontent.com/net93/adb_fakevip/master/QX/local_js.txt, tag=Fakevip local, enabled=true
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-quantumultX-rewrite.conf, tag=HostVn, enabled=true
 
 [server_local]
